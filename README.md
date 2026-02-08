@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Rohith!
+# Hey there 👋, I'm Rohith!
 <br>🔭 I’m a developer passionate about Flutter, Python, and Cloud Computing.<br>🌱 Currently exploring Big Data and Gen AI.<br>💬 Ask me about Flutter, Python.<br>👯 Open to collaborations on cool projects!
 
 
